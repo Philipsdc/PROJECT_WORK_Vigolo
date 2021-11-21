@@ -1,0 +1,7 @@
+Alberto;1000
+Filippo;506
+Nando;0
+ernesto;2
+piero;0
+ACCA;4
+Gianni;0
